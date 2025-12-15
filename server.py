@@ -19,7 +19,7 @@ def run_server():
 
 
 def run_bot():
-    import m   # this runs your bot (app.run())
+    import m   # this runs m.py (your bot with app.run())
 
 
 if __name__ == "__main__":
